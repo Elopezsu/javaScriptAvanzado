@@ -1,0 +1,20 @@
+{
+  "name": "pruebaclase",
+  "version": "1.0.0",
+  "description": "este es un proyecto de prueba",
+  "main": "main.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elopezsu/javaScriptAvanzado.git"
+  },
+  "author": "todo el curso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elopezsu/javaScriptAvanzado/issues"
+  },
+  "homepage": "https://github.com/Elopezsu/javaScriptAvanzado#readme",
+  "keywords": []
+}
